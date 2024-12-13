@@ -16,6 +16,7 @@ Project Structure
 
 Installation
 Run the following commands to install required libraries:
+
 • pip install opencv-python-headless torch torchvision numpy ffmpeg yt_dlp
 • pip install scikit-image tensorflow lpips streamlit pyngrok gradio pillow fastai
 matplotlib
@@ -46,6 +47,7 @@ Evaluation Metrics
 These metrics allow for objective comparison of model performance.
 
 Dashboard Features
+
 • Image Upload: Upload and visualize grayscale images.
 • Model Colorization: View colorized images from PyTorch, Autoencoder, and
 tuned DeOldify.
